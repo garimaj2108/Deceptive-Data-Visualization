@@ -30,8 +30,9 @@ Americans would ideally want the flexibility to purchase firearms as when they p
 
 ## Metrics
 
-The goal of these metrics are to provide insights into correlation between stricter gun laws and gun related deaths.
+#### The goal of these metrics are to provide insights into correlation between stricter gun laws and gun related deaths.
 
+Metrics:
 - Statewise Gun Law Grade 
 - Statewise Gun Death Rate Rank
 - Gun Ownership Rate
