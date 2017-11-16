@@ -20,7 +20,7 @@ Today all Americans want is a way to stop the Gun Violence madness.
 
 Americans would ideally want the flexibility to purchase firearms as when they please without any background checks or additional gun laws but without having to worry about mass shootings or homicides.
 
-# Audience Fears
+## Audience Fears
 
 - Not enough laws / well thought laws to protect people against gun violence 
 - Not enough background checks / No background checks while issuing guns
