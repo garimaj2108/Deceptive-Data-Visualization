@@ -39,7 +39,7 @@ Metrics:
 - Statewise Total Murders
 - Statewise Total Murders by firearms
 
-## Original Claim - Gun Control Saves Lives :gun: :no_entry_sign:
+## Original Claim - Gun Control Saves Lives :gun: :no_entry_sign: :skull:
 
 The scale of America’s gun violence epidemic is not a surprise to anyone. Whether its mass shootings, homicides or suicides. 2017 brought one of the worst mass shooting in the country’s history, Las Vegas was drowned in sorrow with a mass shooting of epic proportions, with 59 people dead and 527 injured, followed by Texas church mass shooting which killed 26 people. More than 20,000 people kill themselves with a gun every year, and over one million Americans have been victims of gun violence in the past decade.
 
@@ -47,7 +47,7 @@ Gun violence takes a number of different forms, and so do its solutions. No one 
 
 The premise is simple, assess every state’s gun law grades and compares those grades with the state’s most recent gun death rate. Consistently, there seems to be a powerful correlation: "States with stronger laws have fewer gun deaths per capita" while "States with weaker laws have more gun deaths". 
 
-## Rebuttal Claim - Gun Control does not have any significant impact on saving lives :gun:
+## Rebuttal Claim - Gun Control does not have any significant impact on saving lives :gun: :skull: :no_entry_sign:
 
 In this visualization when we compare the statewise number of deaths by gun against the law grades, we see that some of the states with highest law grade have a high number of people dying.
 Also, when we compare Gun Ownership data to Gun Death Rate, we see that there is no defined trend between those two, which clearly determines that more number of guns does not necessarily mean more deaths.
