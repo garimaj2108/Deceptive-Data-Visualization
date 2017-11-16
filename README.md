@@ -1,6 +1,6 @@
 # Gun Control Saves Lives  Vs  Gun Control does not significantly impact Lives Saved
 
-# Reference Links for Data: 
+Reference Links for Data: 
 https://docs.google.com/document/d/110DVW8qbH2PkAC6JLSsahs2HO4JlQKIUoz3WNK5VZl8/edit?usp=sharing
 
 # Project Outline 
