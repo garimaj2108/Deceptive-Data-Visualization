@@ -1,4 +1,4 @@
-# Gun Control Saves Lives vs Gun Control does not have significant imapct on reduced loss of life
+# Gun Control Saves Lives vs Gun Control does not have significant imapct on Lives Saved
 
 # Project Outline 
 
