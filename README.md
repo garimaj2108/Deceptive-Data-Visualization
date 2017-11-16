@@ -1,4 +1,4 @@
-# ' Gun Control Saves Lives '  vs  ' Insignificant Impact of Gun Control on Saving Lives '
+# * >'Gun Control Saves Lives'  vs  ' Insignificant Impact of Gun Control on Saving Lives '*
 
 ## Project Outline 
 
