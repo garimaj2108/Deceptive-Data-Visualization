@@ -1,5 +1,8 @@
 # Gun Control Saves Lives  Vs  Gun Control does not significantly impact Lives Saved
 
+# Reference Links for Data: 
+https://docs.google.com/document/d/110DVW8qbH2PkAC6JLSsahs2HO4JlQKIUoz3WNK5VZl8/edit?usp=sharing
+
 # Project Outline 
 
 This project highlights the "Gun Violence issue plaguing America. The country is gridlocked into a heated debate over whether Guns Save Lives OR Gun Control Saves Lives. I am trying to provide a small insight on this heated topic through my data visualizations via comparitive analysis.
