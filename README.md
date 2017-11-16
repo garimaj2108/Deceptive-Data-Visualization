@@ -53,6 +53,10 @@ In this visualization when we compare the statewise number of deaths by gun agai
 Also, when we compare Gun Ownership data to Gun Death Rate, we see that there is no defined trend between those two, which clearly determines that more number of guns does not necessarily mean more deaths.
 Hence, the claim that Gun Control Saves lives is questionable in nature.
 
+## How I went about creating visualizations that support both the original claim and its rebuttal
+
+## Visualization in the making
+
 ## Data Visualization Link
 
 ## Data Sources
