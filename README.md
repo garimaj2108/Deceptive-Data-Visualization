@@ -1,4 +1,4 @@
-# Gun Control Saves Lives vs Guns save Lives
+# Gun Control Saves Lives vs Guns Save Lives
 
 # Project Outline 
 
