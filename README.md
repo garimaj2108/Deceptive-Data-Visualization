@@ -1,4 +1,4 @@
-# 'Gun Control Saves Lives'  vs  'Gun Control does not have significant impact on Lives Saved'
+# Gun Control Saves Lives  vs  Gun Control does not have significant impact on Lives Saved
 
 # Project Outline 
 
