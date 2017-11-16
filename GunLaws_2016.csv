@@ -1,0 +1,51 @@
+Rank,State,State Laws Grade,Death Rate Per 100k,New Smart Gun Laws,Year
+1,California,A,43,yes,2016
+2,Connecticut,A-,46,yes,2016
+3,New Jersey,A-,45,yes,2016
+4,Massachusetts,A-,50,yes,2016
+5,Maryland,A-,27,yes,2016
+5,New York,A-,48,yes,2016
+7,Hawaii,A-,49,yes,2016
+8,Illinois,B+,39,yes,2016
+9,Rhode Island,B+,47,yes,2016
+10,Washington,B,37,yes,2016
+11,Delaware,B,24,yes,2016
+12,Minnesota,C+,44,,2016
+13,Pennsylvania,C,32,yes,2016
+14,Colorado,C,22,yes,2016
+15,Oregon,C,30,yes,2016
+16,Iowa,C,42,yes,2016
+16,Michigan,C,29,yes,2016
+18,Nevada,C-,14,yes,2016
+19,Wisconsin,C-,35,,2016
+20,Nebraska,D,41,yes,2016
+21,Ohio,D,26,,2016
+21,Virginia,D,34,,2016
+23,New Hampshire,D,40,,2016
+24,Indiana,D-,21,,2016
+23,North Carolina,D-,23,yes,2016
+26,Florida,F,25,,2016
+27,Oklahoma,F,8,,2016
+27,Tennessee,F,12,,2016
+29,Georgia,F,16,,2016
+29,New Mexico,F,7,,2016
+29,North Dakota,F,20,,2016
+29,South Carolina,F,10,,2016
+29,Utah,F,19,,2016
+34,Texas,F,28,,2016
+34,West Virginia,F,17,,2016
+36,Maine,F,36,,2016
+37,Alabama,F,3,,2016
+38,Arkansas,F,11,,2016
+38,Montana,F,6,,2016
+40,South Dakota,F,33,,2016
+41,Vermont,F,38,,2016
+42,Kentucky,F,13,,2016
+43,Louisiana,F,2,,2016
+44,Alaska,F,1,,2016
+45,Wyoming,F,4,,2016
+46,Idaho,F,15,,2016
+47,Arizona,F,18,,2016
+48,Kansas,F,31,,2016
+48,Missouri,F,9,,2016
+50,Mississippi,F,5,,2016
