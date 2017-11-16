@@ -6,7 +6,7 @@ This project highlights the "Gun Violence issue plaguing America. The country is
 
 ## Project Motivation
 
-The entire nation is curerntly mourning the Las Vegas and Texas mass shooting tragedies. Being an immigrant in America, the wide Gun use has always fascinated me. I thought this assignment to be a perfect opportunity to check two sides to a story. The nation seems to be divided in their opinion on Gun violence and I thought this would give me the perfect opportunity to explore a data visualization and its rebuttal.
+> The entire nation is curerntly mourning the Las Vegas and Texas mass shooting tragedies. Being an immigrant in America, the wide Gun use has always fascinated me. I thought this assignment to be a perfect opportunity to check two sides to a story. The nation seems to be divided in their opinion on Gun violence and I thought this would give me the perfect opportunity to explore a data visualization and its rebuttal.
 
 For this assignment I am using the same data to magically pull two contrasting arguments, one that supports stricter Gun Laws and correlates them with lesser gun death rates and then an equally opposing argument where the same data displays a weak correlation between Stricter Laws and gun death rates.
 
