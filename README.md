@@ -10,7 +10,7 @@ The entire nation is curerntly mourning the Las Vegas and Texas mass shooting tr
 
 For this assignment I am using the same data to magically pull two contrasting arguments, one that supports stricter Gun Laws and correlates them with lesser gun death rates and then an equally opposing argument where the same data displays a weak correlation between Stricter Laws and gun death rates.
 
-# Claim - Gun Control Save Lives
+# Claim - Gun Control Saves Lives
 
 The scale of America’s gun violence epidemic is not a surprise to anyone. Whether its mass shootings, homicides or suicides. 2017 brought one of the worst mass shooting in the country’s history, Las Vegas was drowned in sorrow with a mass shooting of epic proportions, with 59 people dead and 527 injured, followed by Texas church mass shooting which killed 26 people. More than 20,000 people kill themselves with a gun every year, and over one million Americans have been victims of gun violence in the past decade.
 
