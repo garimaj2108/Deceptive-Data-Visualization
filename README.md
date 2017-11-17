@@ -1,5 +1,6 @@
 # *Gun Control Saves Lives  vs  Insignificant Impact of Gun Control on Saving Lives*
 ![Guns in US](https://odyssey.antiochsb.edu/wp-content/uploads/2015/11/American-Flag-Guns.jpg)
+
 Image is free to use 
 
 ## Project Outline 
