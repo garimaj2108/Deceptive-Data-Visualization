@@ -1,5 +1,5 @@
 # *Gun Control Saves Lives  vs  Insignificant Impact of Gun Control on Saving Lives*
-![Guns in US](https://www.google.com/search?as_st=y&tbm=isch&as_q=gun+control+in+united+states&as_epq=&as_oq=&as_eq=&imgsz=&imgar=&imgc=&imgcolor=&imgtype=&cr=&as_sitesearch=&safe=images&as_filetype=&as_rights=#imgrc=03gxVhaRnPFpTM:)
+![Guns in US](https://cdn.vox-cdn.com/uploads/chorus_asset/file/4075336/gunflag.0.jpg)
 
 *P.S: Image is free to use*
 
