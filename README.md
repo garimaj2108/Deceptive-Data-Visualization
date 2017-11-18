@@ -3,6 +3,20 @@
 
 *P.S: Image is free to use*
 
+## Key Deliverables
+
+  #### Data Visualization Link
+  https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration4/Story2?publish=yes
+
+
+#### Data Sources
+
+  Reference Links for Data: 
+  https://docs.google.com/document/d/110DVW8qbH2PkAC6JLSsahs2HO4JlQKIUoz3WNK5VZl8/edit?usp=sharing
+  
+#### Video Link
+
+
 ## Project Outline 
 
 This project highlights the "Gun Violence issue plaguing America. The country is gridlocked into a heated debate over whether Gun Control Saves Lives OR Gun Control does not have any significant impact on saving lives. I am trying to provide a small insight on this heated topic through comparitive analysis of data via visualizations. 
@@ -103,12 +117,3 @@ https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iterati
 https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration3-3/Dashboard6?publish=yes
 https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration3-4/Dashboard7?publish=yes
 
-
-## Data Visualization Link
-https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration4/Story2?publish=yes
-
-
-## Data Sources
-
-Reference Links for Data: 
-https://docs.google.com/document/d/110DVW8qbH2PkAC6JLSsahs2HO4JlQKIUoz3WNK5VZl8/edit?usp=sharing
