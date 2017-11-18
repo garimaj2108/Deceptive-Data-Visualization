@@ -59,7 +59,24 @@ Hence, the claim that Gun Control Saves lives is questionable in nature.
 
 ## Visualization in the making
 
+The shootings of Las Vegas and Texas were still fresh in my mind, hence all I could think of when I started developing my visualization was scouring for mass shooting data, and of course it wasn't too difficult to find the data.
+
+In my first iteration I am comparing the data of number of people killed in mass shooting from 2015 - 2017.
+https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration1/Story1?publish=yes
+
+After this I was at an impasse as to how do I use this data to not only make a claim but a fitting rebuttal to the claim. As a result I started exploring more articles on Gun killings and Gun control. This is where I realized that the Gun control argument will give me the opportunity to make two distinct claims, so I decided to not restrict my scope to just people killed in mass shooting but include a comprehensive data of people killed by gun, whether it was homicide or suicide or accidental death.
+
+In the second iteration, I am comparing the Statewise Gun Law rank to respective Gun Death Rate rank to determine whether better rank means lower death rate rank or vice versa. Then I am comparing Statewise Gun Law Grade to respective Gun Death Rate Rank to determine whether better grade means lower death rate rank or vice versa.
+https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration2/Dashboard1?publish=yes
+https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration2-1/Dashboard2?publish=yes
+
+In the third iteration (which is in fact the second iteration continued as I forgot to publish the second iteration and distinctly start the third iteration), I am comparing Gun Law rank to respective Number of Deaths by Gun to determine whether better rank means lower death numbers or vice versa. Then I am comparing Statewise Gun Law Grade to respective Number of Deaths by Gun Rank to determine whether better grade means lower death numbers or vice versa.
+https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration2/Sheet8?publish=yes
+
+In the fourth iteration, I am comparing and contrasting the original claim Gun Control saves lives vs Insignificant impact of Gun Control on saving lives. In this iteration I have my claim and rebuttal at loggerheads to prove oppsite sides of the argument.
+
 ## Data Visualization Link
+https://public.tableau.com/profile/garima8871#!/vizhome/DeceptiveDataviz-Iteration4/Story2?publish=yes
 
 ## Data Sources
 
