@@ -15,6 +15,7 @@
   https://docs.google.com/document/d/110DVW8qbH2PkAC6JLSsahs2HO4JlQKIUoz3WNK5VZl8/edit?usp=sharing
   
 #### Video Link
+https://drive.google.com/open?id=1vTRxT6TDNQ5TcpXm8dIMFyESAZHn1VKk
 
 
 ## Project Outline 
@@ -48,6 +49,9 @@ Americans would ideally want the flexibility to purchase firearms without any ba
 ## Metrics
 
 #### The goal of these metrics are to provide insights into correlation between stricter gun laws and gun related deaths.
+
+#### Why these metrics ?
+To successfully be able support or refute my claim on Gun control, I felt that analysis of Gun Law grades or Ranks and their respective death rates would help shed insights on the nature of relationship between Gun Control and Death Rates.
 
 Metrics:
 - Statewise Gun Law Grade 
