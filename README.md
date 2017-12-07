@@ -20,7 +20,7 @@ https://drive.google.com/open?id=1vTRxT6TDNQ5TcpXm8dIMFyESAZHn1VKk
 
 ## Project Outline 
 
-This project highlights the "Gun Violence issue plaguing America. The country is gridlocked into a heated debate over whether Gun Control Saves Lives OR Gun Control does not have any significant impact on saving lives. I am trying to provide a small insight on this heated topic through comparitive analysis of data via visualizations. 
+This project highlights the "Gun Violence issue plaguing America. The country is gridlocked into a heated debate over whether Gun Control Saves Lives OR Gun Control does not have any significant impact on saving lives. I am trying to provide a small insight on this heated topic through comparative analysis of data via visualizations. 
 
 ## Project Motivation - Why I chose this topic ?
 
